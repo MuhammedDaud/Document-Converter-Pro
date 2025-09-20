@@ -64,5 +64,3 @@ A simple and robust web application to convert Microsoft Word documents (.doc an
 <img width="683" height="791" alt="Screenshot 2025-09-20 000426" src="https://github.com/user-attachments/assets/4634dfe2-2f06-4482-99e8-9fab9edd2a42" />
 
 
-
-  * **`CONTRIBUTING.md` (Optional but Recommended)**: If you plan on accepting contributions from others, this file provides guidelines on how they should submit issues, pull requests, and other forms of help. It shows you're open to collaboration and helps maintain the quality of your project.
