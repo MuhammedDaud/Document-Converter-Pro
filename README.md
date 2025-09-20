@@ -59,8 +59,5 @@ A simple and robust web application to convert Microsoft Word documents (.doc an
       * Open your web browser and navigate to `http://localhost:3000`.
       * You can now drag and drop a `.doc` or `.docx` file onto the page or use the "Choose file" button to select one.
 
-## 📸 Screenshots
-
-<img width="683" height="791" alt="Screenshot 2025-09-20 000426" src="https://github.com/user-attachments/assets/4634dfe2-2f06-4482-99e8-9fab9edd2a42" />
 
 LICENSE:  MIT License
